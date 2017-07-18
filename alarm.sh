@@ -1,0 +1,1 @@
+(echo "`date`: starting..." && sleep $((20 * 60)) && echo "taking break at: `date`" && say "take a break" ) >> log
